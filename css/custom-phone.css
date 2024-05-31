@@ -1,0 +1,6 @@
+.flexbox-layout nav{
+    flex-direction: column;
+}
+.flexbox-layout nav a{
+    margin: auto;
+}
